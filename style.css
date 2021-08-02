@@ -95,6 +95,26 @@ section img#moon
 }
 section img#mountain_front
 {
+  /* z-index: 10; */
+}
+section img#firtree1
+{
+  z-index: 10;
+}
+section img#firtree2
+{
+  z-index: 10;
+}
+section img#firtree3
+{
+  z-index: 10;
+}
+section img#firtree4
+{
+  z-index: 10;
+}
+section img#shrubs
+{
   z-index: 10;
 }
 #text
